@@ -1,0 +1,5 @@
+git config --global user.name "kangiang"
+
+git config --global user.email "kangqiang846@gmail.com"
+
+git clone https://github.com/kangiang/dev.git
